@@ -1,0 +1,132 @@
+<resources>
+    <string name="app_name" translatable="false">SovcombankChallenge</string>
+    
+    <string name="home">Main</string>
+    <string name="trading">Trading</string>
+    <string name="news">News</string>
+    <string name="recommendations">For You</string>
+    <string name="chat">Chat</string>
+
+    <string name="funny_phrase_sample">In political economy there are two methods: European - to postpone and Russian - to borrow</string>
+
+    <string name="auth_email">Email / phone number</string>
+    <string name="auth_password">Password</string>
+
+    <string name="auth_login_action">Login</string>
+    <string name="auth_registration_action">Registration</string>
+    <string name="auth_forgot_password">Forgot your password?</string>
+    <string name="auth_divider_text">OR</string>
+
+    <string name="auth_alert_message">Please, enter your email or phone number and password</string>
+
+    <string name="registration_title">Registration</string>
+    <string name="registration_second_name">Second name</string>
+    <string name="registration_first_name">Name</string>
+    <string name="registration_patronymic">Patronymic</string>
+    <string name="registration_birth_date">Birth date</string>
+    <string name="registration_email" translatable="false">Email</string>
+    <string name="registration_phone_number">Phone number</string>
+    <string name="registration_password">Password</string>
+    <string name="registration_password_repeat">Repeat password</string>
+    <string name="registration_user_data_processing">I agree to the processing of personal data</string>
+    <string name="registration_agree_with_terms">I accept the user agreement</string>
+
+    <string name="registration_action">Register</string>
+    <string name="registration_next_action">Next</string>
+    <string name="registration_back_action">Back</string>
+
+    <string name="code_confirmation_title">Confirmation</string>
+    <string name="code_confirmation_body">We have sent a confirmation code to your email. Please, enter it below</string>
+    <string name="code_confirmation_label">Code</string>
+    <string name="code_confirmation_resend">Resend code</string>
+
+    <string name="code_confirmation_submit">Submit</string>
+
+    <string name="password_recovery_title">Password Recovery</string>
+    <string name="password_recovery_body">Enter your email to recover the password</string>
+    <string name="password_recovery_end">Enter your new password</string>
+    <string name="password_recovery_email" translatable="false">Email</string>
+
+    <string name="password_recovery_action">Next</string>
+
+    <string name="home_screen_greeting">Hello, User!</string>
+
+    <string name="home_screen_profile">Profile</string>
+    <string name="home_screen_services">Services</string>
+    <string name="home_screen_accounts">Accounts</string>
+
+    <string name="home_currency_card_rubbles">Master account in rubbles</string>
+    <string name="home_currency_card_dollars">Master account in dollars</string>
+    <string name="home_currency_card_euros">Master account in euros</string>
+
+    <string name="new_account_title">New Account</string>
+    <string name="new_account_name">Account name</string>
+    <string name="new_account_currency">Choose currency</string>
+    <string name="new_account_type">Choose account type</string>
+    <string name="new_account_password">Enter additional password</string>
+
+    <string name="new_account_action">Create</string>
+
+    <string name="trading_sell">Sell</string>
+    <string name="trading_buy">Buy</string>
+
+    <string name="trading_action">Next</string>
+    <string name="trading_news">Currency news</string>
+    <string name="trading_new_account">Open an account in a new currency</string>
+    
+    <string name="operation_details_title">Operation Details</string>
+    <string name="operation_details_account">Choose account</string>
+    <string name="operation_details_amount">Enter amount</string>
+
+    <string name="operation_details_action">Submit</string>
+
+    <string name="account_details_transfer">Transfer</string>
+    <string name="account_details_top_up">Top up</string>
+    <string name="account_details_edit">Edit</string>
+    <string name="account_details_info">Information</string>
+    <string name="account_details_history">Operation History</string>
+    <string name="account_details_delete">Close account</string>
+    
+    <string name="services_title">Services</string>
+    <string name="services_futures">Buying currency futures</string>
+    <string name="services_goals">Goals and envelopes</string>
+    <string name="services_deposits">Deposits</string>
+    <string name="services_budget">Budget</string>
+    <string name="services_analysis">Financial analysis</string>
+    <string name="services_bonus">Bonus System</string>
+
+    <string name="transfer_title">Transfer</string>
+    <string name="transfer_method">Transfer method</string>
+    <string name="transfer_amount">Amount</string>
+
+    <string name="top_up_title">Top up</string>
+    <string name="top_up_method">Top up method</string>
+    <string name="top_up_amount">Amount</string>
+
+    <string name="edit_title">Edit</string>
+    <string name="edit_account_name">Account Name</string>
+    <string name="edit_currency">Currency</string>
+    <string name="edit_order_register">Order register</string>
+
+    <string name="info_title">Information</string>
+    <string name="info_requisites">Requisites</string>
+    <string name="info_statement">Account statement</string>
+    <string name="info_reference">Reference</string>
+
+    <string name="button_action">Next</string>
+    <string name="button_submit">Submit</string>
+
+    <string name="news_title">Today Agenda</string>
+
+    <string name="profile_title">Profile</string>
+    <string name="profile_email" translatable="false">Email</string>
+    <string name="profile_phone_number">Phone number</string>
+    <string name="profile_password">Password</string>
+    
+    <string name="admin_main">Main</string>
+    <string name="admin_accounts">Accounts</string>
+    <string name="admin_users">Users</string>
+
+    <string name="common_error_message">Something went wrong</string>
+    <string name="login_error_message">Something went wrong. Check your connection of credentials</string>
+</resources>
