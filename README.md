@@ -3,9 +3,10 @@
 </p>
 
 <p align="center">
-   <img src="" alt="Unity Version">
-   <img src="" alt="Game Version">
-   <img src="" alt="License">
+   <img src="https://img.shields.io/badge/python-3.10-orange" alt="back version">
+   <img src="https://img.shields.io/badge/kotlin-v1.6.0-yellow" alt="front version">
+   <img src="https://img.shields.io/badge/version-Prototipe-blue" alt="app version">
+   <img src="https://img.shields.io/badge/license-MIT-brightgreen" alt="license">
 </p>
 
 ## About
