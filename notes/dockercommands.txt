@@ -1,0 +1,8 @@
+-- run the container
+docker run -d -p 5433:5432 -e POSTGRES_PASSWORD=password --name postgres postgres
+
+-- stop the container
+docker stop postgres
+
+-- remove the container
+docker rm postgres

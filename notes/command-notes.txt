@@ -1,0 +1,14 @@
+// command to automatically create the table structure in the db
+1. open terminal
+2. go to project location
+3. python
+4. from models import db
+5. db.create_all()
+6. exit()
+
+// command to run the flask app
+1. open terminal
+2. go the project location
+2. flask run
+
+or run the app via the IDE (i.e. Run app.py)
