@@ -8,9 +8,9 @@
 docker build --tag coffe:latest .
 ```
 
-Команда для запуска docker-compose
+Команда для запуска 
 ```
-docker-compose -f docker-compose.yml up -d --remove-orphans
+docker run -p 10050:5000 -d coffe:latest
 ```
 
 
