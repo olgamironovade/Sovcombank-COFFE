@@ -19,7 +19,7 @@ Documentation Here
 
 ## Distribute
 
-- [Service Name](Page Link)
+- Увидеть приложение в работе можно по ссылке: [sovkombank.coffe](Page Link)
 
 
 ## Developers
