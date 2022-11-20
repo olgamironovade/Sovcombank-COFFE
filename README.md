@@ -31,3 +31,5 @@ Documentation Here
 - [Елизавета Крапивина - Designer](t.me/eeeelzvt)
 
 ## License
+
+Проект Sovkombank-COFFE распростроняется под лицензией MIT.
