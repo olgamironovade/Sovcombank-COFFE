@@ -19,7 +19,7 @@ Documentation Here
 
 ## Distribute
 
-- Увидеть приложение в работе можно по ссылке: [sovkombank.coffe](213.247.168.75:80)
+- Увидеть приложение в работе можно по ссылке: [sovkombank.coffe](http://213.247.168.75:80)
 
 
 ## Developers
