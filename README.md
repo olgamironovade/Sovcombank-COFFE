@@ -28,5 +28,6 @@ Documentation Here
 - [Дмитрий Шипилов - System analyst](https://github.com/TheSuspect17)
 - [Павел Бахметов - BackEnd Developer](https://github.com/Memori707)
 - [Егор Данилов - FrontEnd Developer](https://github.com/LostImagin4tion)
+- [Елизавета Крапивина - Designer](t.me/eeeelzvt)
 
 ## License
